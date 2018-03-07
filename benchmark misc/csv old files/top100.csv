@@ -1,0 +1,100 @@
+BFSNR;ONRP;PLZ;ZUSATZZIFF;ORTSCHAFTS;KANTON;STRASSENNA;HAUSNUMMER;GEOMY;GEOMX;STATUS;STATUS_GP;PARZ_NR;GVZ_NR;GWR_EGID;GWR_EDID;GEBAEUDEAR;QUELLE
+248;;8142;0;Uitikon Waldegg;;Urdorferstrasse;14;1247364.225;2676248.846;R;;916;379;210204678;0;Gebaeude.Nebengebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Schlierenstrasse;31;1247458.408;2676264.153;R;;3503;1309;210198957;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Schlierenstrasse;38;1247527.907;2676232.123;R;;1930;388;121384;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Lattenstrasse;89;1247559.763;2676271.673;R;;2873;995;121348;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Uitikonerstrasse;31a;1249822.662;2676271.273;R;;5967;897;121055;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;1;1250007.644;2676256.326;R;;5299;890;120156;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Engstringerstrasse;6;1250564.281;2676239.151;R;;9403;1976;201025578;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Engstringerstrasse;8;1250583.419;2676242.181;R;;9403;1976;201025579;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Ackerweg;6;1250919.906;2676267.571;R;;4720;916;120316;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Limmatstrasse;6;1251040.8;2676253.355;R;;8557;1304;120422;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Limmataustrasse;4;1251097.07;2676265.448;R;;8561;610;120359;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Glaserenstrasse;4;1247349.781;2676349.128;R;;3321;1235;3028091;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Glaserenstrasse;2.1;1247346.382;2676365.118;R;;3322;;;;Gebaeude.Nebengebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Schlierenstrasse;32.1;1247470.225;2676280.423;R;;2656;1179;210206238;0;Gebaeude.Nebengebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Schlierenstrasse;18;1247437.207;2676336.678;R;;2253;858;121369;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Lattenstrasse;96;1247599.179;2676341.865;R;;2691;1285;201042073;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Lattenstrasse;75;1247516.711;2676349.659;R;;3238;1139;3116937;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Dammweg;3;1249766.578;2676293.424;R;;3887;647;121047;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Zwiegartenstrasse;8;1249888.797;2676322.458;R;;7716;2133;210188512;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;3;1250013.724;2676290.591;R;;6302;76;120157;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Lilienweg;3;1250084.783;2676340.692;R;;6420;98;120173;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Zurcherstrasse;6;1250118.167;2676274.398;R;;8260;1597;2329824;0;Gebaeude.Gastgewerbe;AV_2017.12
+247;;8952;0;Schlieren;;Zurcherstrasse;9;1250177.734;2676325.857;R;;9440;511;120178;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Lilienweg;2;1250104.286;2676354.621;R;;9563;1219;120172;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Grabenstrasse;10;1250255.173;2676288.767;R;;9439;1541;120220;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Rutistrasse;12.1;1250489.695;2676351.782;R;;9099;64;210211552;0;Gebaeude.Industrie_Gewerbe;AV_2017.12
+247;;8952;0;Schlieren;;Rotbuchenweg;16;1250678.374;2676293.051;R;;9409;1724;120354;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Lachernweg;23;1250960.146;2676278.335;R;;4710;953;120433;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Lachernweg;32.1;1251029.314;2676337.729;R;;66;2084;210211249;0;Gebaeude.Nebengebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Limmataustrasse;6;1251118.721;2676301.683;R;;8561;612;120360;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Limmatstrasse;11;1251085.43;2676308.562;R;;8561;611;120363;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Honggerstrasse;2.1;1251567.9;2676318.408;R;;2844;26;;;Gebaeude.Land_Forstwirtschaft_Gaertnerei;AV_2017.12
+249;;8103;0;Unterengstringen;;Obere Honggerstrasse;8;1251720.38;2676363.271;R;;2245;824;201006053;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Weiningerstrasse;42;1251782.799;2676279.649;R;;1792;161;122509;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Zurcherstrasse;42a;1251893.4;2676322.231;R;;2113;467;210200494;0;Gebaeude.Verwaltung;AV_2017.12
+249;;8103;0;Unterengstringen;;Zurcherstrasse;42;1251923.144;2676304.926;R;;2113;467;2330638;0;Gebaeude.Handel;AV_2017.12
+249;;8103;0;Unterengstringen;;Zurcherstrasse;42.2;1251930.946;2676339.282;R;;2113;n.n.;;;Gebaeude.Nebengebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Zurcherstrasse;78;1247110.384;2676430.673;R;;3388;790;121418;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Urdorferstrasse;5;1247157.807;2676461.936;R;;3365;105;210165726;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Schlierenstrasse;23;1247378.166;2676373.389;R;;1108;416;121373;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Lattenstrasse;63;1247471.801;2676423.407;R;;2489;887;121328;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Obere Stockrutistrasse;26;1247682.947;2676414.755;R;;1538;924;121682;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Alter Zurichweg;10;1249726.601;2676373.706;R;;7482;1584;121091;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Alter Zurichweg;14a;1249755.019;2676445.565;R;;8398;1580;121097;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Alter Zurichweg;18;1249804.704;2676449.031;R;;8399;977;121099;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Rainweg;2;1249881.159;2676399.463;R;;8899;922;121071;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Zwiegartenstrasse;20.1;1249926.603;2676406.212;R;;7236;342;210211830;0;Unterstand;AV_2017.12
+247;;8952;0;Schlieren;;Grabenstrasse;18;1250077.494;2676391.528;R;;7267;516;120188;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;16;1250014.847;2676457.96;R;;7331;366;210153491;0;Gebaeude.Verwaltung;AV_2017.12
+247;;8952;0;Schlieren;;Romergasse;2;1250135.585;2676405.644;R;;4373;461;120209;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Zurcherstrasse;13;1250199.694;2676388.874;R;;8643;486;120493;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Leuengasse;4;1250227.89;2676401.789;R;;8643;363;2329953;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Zurcherstrasse;31;1250221.28;2676451.199;R;;7580;51;120499;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Zurcherstrasse;35;1250240.441;2676460.417;R;;4772;49;120500;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Grabenstrasse;3;1250303.811;2676437.113;R;;8736;1535;9003339;0;Gebaeude.Industrie_Gewerbe;AV_2017.12
+249;;8103;0;Unterengstringen;;Honggerstrasse;10;1251579.523;2676417.124;R;;1904;801;201003558;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Talacherstrasse;12.1;1251924.902;2676423.752;R;;2898;220;;;Gebaeude.Nebengebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Schlierenstrasse;1;1247203.416;2676516.412;R;;2922;90;121344;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Zurcherstrasse;75;1247158.788;2676556.68;R;;3281;132;121706;0;Gebaeude.Land_Forstwirtschaft_Gaertnerei;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Haldenstrasse;67;1247502.055;2676497.78;R;;2064;812;121601;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Gyrhalde;2;1249761.121;2676550.817;R;;6227;1111;121134;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Alter Zurichweg;21;1249866.099;2676500.21;R;;8157;1595;121101;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Rainweg;9;1249935.491;2676472.836;R;;5894;1143;121076;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Romergasse;11;1250175.545;2676503.872;R;;7359;524;120213;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Backerstrasse;4;1250122.712;2676504.755;R;;7363;896;120201;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Rutistrasse;26;1250458.265;2676511.906;R;;9101;1530;2330151;0;Gebaeude.Industrie_Gewerbe;AV_2017.12
+247;;8952;0;Schlieren;;Rutistrasse;13;1250522.753;2676516.247;R;;8807;165;2330156;0;Gebaeude.Industrie_Gewerbe;AV_2017.12
+247;;8952;0;Schlieren;;Betschenrohr;1.1;1251056.927;2676473.011;R;;5286;176;210211850;0;Gebaeude.Industrie_Gewerbe;AV_2017.12
+249;;8103;0;Unterengstringen;;Honggerstrasse;19.1;1251621.942;2676525.816;R;;2254;665;;;Gebaeude.Nebengebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Dahlienstrasse;4.1;1251634.495;2676469.531;R;;2249;n.n.;;;Gebaeude.Nebengebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Langacherstrasse;10;1251806.048;2676522.593;R;;2929;369;122412;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Talacherstrasse;20.2;1251885.074;2676549.268;R;;2666;668;;;Gebaeude.Nebengebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Talacherstrasse;20.3;1251884.37;2676552.205;R;;2827;667;;;Gebaeude.Nebengebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Bergstrasse;12.1;1251916.709;2676528.355;R;;2160;524;;;unterirdisches_Gebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Langackerstrasse;61;1247022.132;2676599.833;R;;2399;907;121622;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Altenweg;3;1247106.905;2676602.469;R;;3353;13;121449;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Zurcherstrasse;71;1247159.138;2676595.783;R;;1905;134;210199452;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Zurcherstrasse;62.1;1247194.549;2676600.497;R;;2680;318;210206297;0;Gebaeude.Nebengebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Zurcherstrasse;67;1247147.746;2676634.976;R;;2829;139;210199453;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Haldenstrasse;57;1247470.694;2676608.2;R;;1910;1276;201037663;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Haldenstrasse;58;1247486.973;2676645.527;R;;2876;78;121595;0;Gebaeude.Wohngebaeude;AV_2017.12
+248;;8142;0;Uitikon Waldegg;;Eduard Gut-Strasse;7;1247530.286;2676648.406;R;;2877;1338;210202579;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Fluegartenstrasse;2;1249807.894;2676594.269;R;;8568;1705;121126;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Fluegartenstrasse;2c;1249794.34;2676601.48;R;;8565;1702;121129;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Alter Zurichweg;25;1249863.477;2676594.087;R;;9034;1851;210153853;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Alter Zurichweg;33;1249860.303;2676628.343;R;;8866;361;2329899;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;22;1250076.456;2676593.766;R;;6935;43;121148;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;30;1250078.555;2676656.643;R;;7063;39;121152;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;25b;1250152.846;2676572.275;R;;4320;880;121166;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;25a;1250128.554;2676593.195;R;;4379;803;121170;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Schulstrasse;25;1250108.566;2676593.972;R;;6931;820;121169;0;Gebaeude.Wohngebaeude;AV_2017.12
+247;;8952;0;Schlieren;;Rutistrasse;21;1250521.364;2676608.32;R;;8807;1427;210153704;0;Gebaeude.Industrie_Gewerbe;AV_2017.12
+249;;8103;0;Unterengstringen;;Max Gubler Strasse;25.1;1251540.207;2676582.705;R;;1563;415;;;unterirdisches_Gebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Honggerstrasse;23;1251622.805;2676601.852;R;;1890;143;122557;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Zurcherstrasse;31a;1251723.6;2676591.645;R;;2633;397;122523;1;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Im Haggenacher;22;1251657.861;2676594.84;R;;2531;391;122554;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Im Haggenacher;16;1251668.2;2676595.535;R;;2531;391;122551;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Im Haggenacher;12;1251636.237;2676600.916;R;;2531;391;122549;0;Gebaeude.Wohngebaeude;AV_2017.12
+249;;8103;0;Unterengstringen;;Zurcherstrasse;29;1251725.005;2676602.166;R;;2935;697;2330681;0;Gebaeude.Wohngebaeude;AV_2017.12
