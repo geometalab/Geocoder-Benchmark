@@ -1,5 +1,5 @@
 # Geocoder-Benchmark
-Benchmarking some known Geocoder APIs.
+Benchmarking some known Geocoder APIs using Python.
 
 ## Services
 
