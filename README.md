@@ -1,2 +1,2 @@
-# Geocoder-Benchmark
-Benchmarking some known Geocoder APIs.
+# Geocoder Benchmark
+Benchmarking some known Geocoder APIs using Python.
